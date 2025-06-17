@@ -31,11 +31,4 @@ export default {
       },
     ],
   },
-  parameters: {
-    docs: {
-      source: {
-        code: `<Button variant="primary">Button</Button>`,
-      },
-    },
-  },
 } as Meta<ComponentProps<typeof Button>>;

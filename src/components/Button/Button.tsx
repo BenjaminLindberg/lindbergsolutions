@@ -4,7 +4,6 @@ export const ButtonVariants = ["primary", "secondary", "outline"] as const;
 
 export type ButtonProps = {
   variant: (typeof ButtonVariants)[number];
-  test: string;
 } & JSX.HTMLAttributes<HTMLButtonElement>;
 
 export const variants = {
