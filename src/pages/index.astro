@@ -1,0 +1,66 @@
+---
+
+import Layout from "../layouts/Layout.astro"
+
+import FaqSection from "../components/FaqSection.astro"
+import HeroSection from "../components/HeroSection.astro"
+import PricingSection from "../components/PricingSection.astro"
+import ServicesCarousel from "../components/ServicesCarousel.astro"
+
+import faq from "../data/faq.json"
+import global_settings from "../data/global_settings.json"
+import home from "../data/home.json"
+import pricing from "../data/pricing.json"
+import services from "../data/services.json"
+
+---
+
+<Layout title={ global_settings.title }>
+
+  <HeroSection
+    content={ home.hero_content }
+    settings={ global_settings }
+    title={ home.hero_title }
+  />
+
+  <ServicesCarousel
+    services={ services }
+    title={ home.services_title }
+  />
+
+<!--   <ClientsSection
+    clients={ clients }
+    title={ home.clients_title }
+  />
+
+  <QuoteSection
+    cite={ home.quote_cite }
+    content={ home.quote_content }
+    image={ home.quote_image }
+    role={ home.quote_role }
+  />
+
+  <CaseStudiesSection
+    caseStudies={ caseStudies }
+    title={ home.case_studies_title }
+  />
+
+  <TestimonialsSection
+    testimonials={ testimonials }
+    title={ home.testimonials_title }
+  />
+ -->
+  
+
+  <PricingSection
+    pricing={ pricing }
+    title={ home.pricing_title }
+  />
+
+  <FaqSection
+    faq={ faq }
+    title={ home.faq_title }
+  />
+
+
+</Layout>

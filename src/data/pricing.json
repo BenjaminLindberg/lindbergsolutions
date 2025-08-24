@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Simple app",
+    "tag": "Most popular",
+    "content": "For the small company or startup that needs a simple app tailored to your specific needs.",
+    "cta": "Let's talk about it",
+    "price": 600,
+    "services": [
+      { "item": "Fullstack app" },
+      { "item": "Tailored to your needs" },
+      { "item": "Up to 5 pages" },
+      { "item": "Web/Mobile/Desktop - you choose" },
+      { "item": "We help you with hosting" }
+    ]
+  },
+  {
+    "title": "Large app",
+    "tag": "Best value",
+    "content": "For the large company that needs a robust and advanced app specifically for your usecase. Fast and scalable.",
+    "cta": "Get qoute",
+    "services": [
+      { "item": "Fullstack app" },
+      { "item": "Tailored to your need" },
+      { "item": "Unlimited pages - pay as you go" },
+      { "item": "Support for multiplatform" },
+      { "item": "We help you with hosting" }
+    ]
+  }
+]

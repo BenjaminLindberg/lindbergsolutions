@@ -1,0 +1,33 @@
+{
+  "title": "Lindberg Solutions",
+  "description": "A consulting company specializing in developing apps.",
+  "social_image": "/1200x630.jpg",
+  "base_url": "https://lindbergsolutions.com",
+  "demo": {
+    "title": "Need an app?",
+    "content": "<strong>Get a guided tour through our services</strong>, and find out how you and your company can change your digital presence - forever.",
+    "cta": "Book a call"
+  },
+  "theme_color": "#00265B",
+  "nav": [
+    {
+      "title": "Services",
+      "link": "/#services"
+    },
+    {
+      "title": "Pricing",
+      "link": "/#pricing"
+    },
+    {
+      "title": "FAQ",
+      "link": "/#faq"
+    }
+  ],
+
+  "social_links": [
+    {
+      "title": "GitHub",
+      "link": "https://github.com/benjaminlindberg/"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Lindberg Solutions",
+  "description": "We streamline your company through making fullstack apps for your specific needs.",
+  "short_name": "Lindberg Solutions",
+  "theme_color": "#18181B",
+  "icons": [
+    {
+      "src": "/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

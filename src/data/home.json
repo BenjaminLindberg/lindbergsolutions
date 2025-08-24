@@ -1,0 +1,14 @@
+{
+  "hero_title": "Lindberg Solutions",
+  "hero_content": "<p><strong>We make your ideas into functional apps</strong> to make your company's online presence into a reality.</p><p>We use modern technologies and programming languages. Typescript, Fastify, SolidJS/NextJS, MongoDB, NodeJS and more!</p>",
+  "services_title": "Our services",
+  "clients_title": "Trusted by some great companies",
+  "testimonials_title": "Clients ♥ us",
+  "case_studies_title": "Case studies",
+  "pricing_title": "We make your app",
+  "quote_content": "This <strong>design agency</strong> is a <strong>game changer</strong>. Its <strong>creative vision</strong>, <strong>user-focused approach</strong>, and <strong>seamless collaboration</strong> have <strong>transformed</strong> the way we <strong>build our brand</strong>. It’s <strong>not just an agency</strong> — it’s a <strong>powerful partner</strong> that <strong>delivers real results</strong>.",
+  "quote_cite": "Evan Hite",
+  "quote_role": "CTO, ENJ Digital",
+  "quote_image": "/content-images/quote-man.avif",
+  "faq_title": "Frequently Asked Questions"
+}
