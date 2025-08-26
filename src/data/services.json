@@ -1,30 +1,23 @@
 [
   {
-    "title": "We create timeless visual identities for modern brands.",
-    "content": "<strong>Great companies are built on their ability to adapt and grow.</strong> We create brands that will adapt and flourish no matter where the market takes you.",
-    "cta": "Call us about branding",
+    "title": "Custom fullstack apps for any business size",
+    "content": "<strong>From startups to large enterprises, we build tailored applications that scale with your business.</strong> Using modern frameworks like NextJS, SolidJS, and Fastify, we deliver fast and reliable apps for web, mobile, and desktop.",
+    "cta": "Start your custom app today",
     "image": "/content-images/blackspike-wallpaper-01.avif",
     "image_alt": ""
   },
   {
-    "title": "We design websites that drive conversions and delight users.",
-    "content": "<strong>Experts in imagining future interfaces and experiences.</strong> From UX to creative to analytics, we are there every step of the way.",
-    "cta": "Book a website review call",
+    "title": "Scalable solutions for growing companies",
+    "content": "<strong>Future-proof technology stacks for long-term success.</strong> Our large-scale applications are built with performance and growth in mind, with support for multiplatform deployments and robust backends powered by NodeJS and MongoDB.",
+    "cta": "Talk to us about enterprise apps",
     "image": "/content-images/blackspike-wallpaper-02.avif",
     "image_alt": ""
   },
   {
-    "title": "Design across all dimensions",
-    "content": "<strong>Outstanding 3D design and concepts.</strong> We provide top-of-the-line 3D modelling services delivered by our skilled team of 3D artists.",
-    "cta": "Our 3D Services",
+    "title": "Simple apps that make an impact",
+    "content": "<strong>Perfect for small companies and startups.</strong> We build lightweight, cost-effective apps with up to 5 pages, tailored to your needs. Whether for web, mobile, or desktop—we’ll get you online fast and help with hosting too.",
+    "cta": "Get your app built now",
     "image": "/content-images/blackspike-wallpaper-03.avif",
-    "image_alt": ""
-  },
-  {
-    "title": "Apps for all devices and seasons",
-    "content": "<strong>We help companies supercharge their apps by providing world-class, effective design.</strong> Best practice design processes for your products",
-    "cta": "Arrange an app demo",
-    "image": "/content-images/blackspike-wallpaper-04.avif",
     "image_alt": ""
   }
 ]
